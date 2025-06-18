@@ -1,4 +1,4 @@
-# Task Management App - Flutter Internship Week 3
+# Task Management App 
 
 ## 📌 Features:
 - View list of tasks
