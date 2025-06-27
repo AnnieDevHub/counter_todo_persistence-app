@@ -1,20 +1,21 @@
-# Task Management App 
+# Counter todo persistence app
 
-## 📌 Features:
-- View list of tasks
-- Add new tasks
-- Delete tasks
-- Data saved using SharedPreferences
-- Custom AppBar & icons for better UI
+Features:
 
-## Packages:
-- shared_preferences: ^2.2.2
+Counter App with setState()
 
-## How to Run:
+Persistent counter value using SharedPreferences
+
+To-Do List app with add, display, and save tasks locally
+
+Packages:
+
+shared_preferences: ^2.2.2
+
+
+How to Run:
+
 1. Clone this repository
-2. Run `flutter pub get`
-3. Open emulator or physical device
-4. Run `flutter run`
-5. Use + button to add, tap 🗑️ to delete.
-
-
+2. Run flutter pub get
+3. Launch app on emulator or physical device
+4. Use Counter and To-Do List features
